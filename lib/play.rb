@@ -42,5 +42,6 @@ def play(board)
   while counter <= 9
   turn(board)
   counter += 1
+end
   puts "The game has ended."
 end
